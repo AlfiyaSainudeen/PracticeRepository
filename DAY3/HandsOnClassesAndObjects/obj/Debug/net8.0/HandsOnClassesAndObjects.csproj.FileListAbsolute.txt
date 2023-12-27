@@ -1,0 +1,14 @@
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.exe
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.deps.json
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.runtimeconfig.json
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.dll
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.pdb
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.AssemblyInfoInputs.cache
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.AssemblyInfo.cs
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.dll
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\refint\HandsOnClassesAndObjects.dll
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.pdb
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.genruntimeconfig.cache
+C:\Alfiya\C#\DAY3\HandsOnClassesAndObjects\obj\Debug\net8.0\ref\HandsOnClassesAndObjects.dll
