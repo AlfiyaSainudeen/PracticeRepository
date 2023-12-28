@@ -1,0 +1,14 @@
+C:\Alfiya\C#\DAY4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.exe
+C:\Alfiya\C#\DAY4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.deps.json
+C:\Alfiya\C#\DAY4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.runtimeconfig.json
+C:\Alfiya\C#\DAY4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.dll
+C:\Alfiya\C#\DAY4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.pdb
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.AssemblyInfoInputs.cache
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.AssemblyInfo.cs
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.csproj.CoreCompileInputs.cache
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.dll
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\refint\HandsOnInheritance.dll
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.pdb
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.genruntimeconfig.cache
+C:\Alfiya\C#\DAY4\HandsOnInheritance\obj\Debug\net8.0\ref\HandsOnInheritance.dll

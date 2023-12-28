@@ -1,0 +1,14 @@
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.exe
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.deps.json
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.runtimeconfig.json
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.dll
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.pdb
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.AssemblyInfoInputs.cache
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.AssemblyInfo.cs
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.csproj.CoreCompileInputs.cache
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.dll
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\refint\HandsOnConstructorsAndProperties.dll
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.pdb
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.genruntimeconfig.cache
+C:\Alfiya\C#\DAY4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\ref\HandsOnConstructorsAndProperties.dll
