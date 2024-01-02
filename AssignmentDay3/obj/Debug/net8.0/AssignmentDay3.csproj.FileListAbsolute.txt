@@ -1,0 +1,14 @@
+C:\Alfiya\C#\DAY3\AssignmentDay3\bin\Debug\net8.0\AssignmentDay3.exe
+C:\Alfiya\C#\DAY3\AssignmentDay3\bin\Debug\net8.0\AssignmentDay3.deps.json
+C:\Alfiya\C#\DAY3\AssignmentDay3\bin\Debug\net8.0\AssignmentDay3.runtimeconfig.json
+C:\Alfiya\C#\DAY3\AssignmentDay3\bin\Debug\net8.0\AssignmentDay3.dll
+C:\Alfiya\C#\DAY3\AssignmentDay3\bin\Debug\net8.0\AssignmentDay3.pdb
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\AssignmentDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\AssignmentDay3.AssemblyInfoInputs.cache
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\AssignmentDay3.AssemblyInfo.cs
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\AssignmentDay3.csproj.CoreCompileInputs.cache
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\AssignmentDay3.dll
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\refint\AssignmentDay3.dll
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\AssignmentDay3.pdb
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\AssignmentDay3.genruntimeconfig.cache
+C:\Alfiya\C#\DAY3\AssignmentDay3\obj\Debug\net8.0\ref\AssignmentDay3.dll
