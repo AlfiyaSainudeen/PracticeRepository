@@ -1,0 +1,14 @@
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\bin\Debug\net8.0\Day2Assignments.exe
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\bin\Debug\net8.0\Day2Assignments.deps.json
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\bin\Debug\net8.0\Day2Assignments.runtimeconfig.json
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\bin\Debug\net8.0\Day2Assignments.dll
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\bin\Debug\net8.0\Day2Assignments.pdb
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\Day2Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\Day2Assignments.AssemblyInfoInputs.cache
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\Day2Assignments.AssemblyInfo.cs
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\Day2Assignments.csproj.CoreCompileInputs.cache
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\Day2Assignments.dll
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\refint\Day2Assignments.dll
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\Day2Assignments.pdb
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\Day2Assignments.genruntimeconfig.cache
+C:\Alfiya\C#\Assignements\DAY2\Day2Assignments\obj\Debug\net8.0\ref\Day2Assignments.dll
