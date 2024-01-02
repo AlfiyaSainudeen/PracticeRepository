@@ -1,0 +1,14 @@
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.AssemblyInfoInputs.cache
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.AssemblyInfo.cs
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.csproj.CoreCompileInputs.cache
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.exe
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.deps.json
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.runtimeconfig.json
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.dll
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.pdb
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.dll
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\refint\HandsOnGenericCollection.dll
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.pdb
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.genruntimeconfig.cache
+C:\Alfiya\C#\DAY6\HandsOnGenericCollection\obj\Debug\net8.0\ref\HandsOnGenericCollection.dll
